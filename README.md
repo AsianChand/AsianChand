@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AsianChand
-- 👀 I’m interested in .. Blockchain and Smart-Contracts 
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on a new DAPPS
+- 👀 I’m interested in .. Blockchain 
 - 📫 How to reach me - email on asianchand57@gmail.com
 
 <!---
